@@ -1,8 +1,7 @@
 body { 
-background-color: #F08080;
+
   color: #A26585;
   font-family: Georgia, Times New Roman, sans-serif;
-  margin: 10% 15%;
 }
 
 .exp-header {
@@ -13,7 +12,14 @@ background-color: #F08080;
   background-color: rgba(0,0,0, 0.1)
 }
 
-
 img{
   width: 200px;  
+}
+
+div {
+  text-align: center;
+}
+
+.adjust-line-height {
+  line-height: 1;
 }
