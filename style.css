@@ -1,1 +1,14 @@
+body { 
+background-color: #F08080;
+  color: #A26585;
+  font-family: Georgia, Times New Roman, sans-serif;
+  margin: 10% 15%;
+}
 
+.exp-header {
+  text-align: center; 
+  text-transform: uppercase;
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+  background-color: rgba(0,0,0, 0.1)
+}
